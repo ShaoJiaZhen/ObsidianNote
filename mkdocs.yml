@@ -44,6 +44,16 @@ plugins:
       lang: [zh, en]
   - tags:
       tags_file: tags.md
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - assets/javascripts/bundle.*.min.js
+      css_files:
+        - assets/stylesheets/main.*.min.css
   - pub-meta:
       publish:
         file_default: false       # opt-in: files default to NOT published
