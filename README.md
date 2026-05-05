@@ -21,6 +21,21 @@ push 到 `main` → GitHub Actions 自动 build + 部署到 `gh-pages` 分支 �
 
 取消发布：把 `publish: true` 改成 `false` 或删掉，下次 push 该页消失。
 
+## 笔记改名 / 搬位置
+
+如果想保留旧 URL 不出现 404，在旧路径留一个 stub，frontmatter 写：
+
+```yaml
+---
+publish: true
+redirect: true
+---
+
+[搬到新位置](../new-path/)
+```
+
+pub-meta 会把这个 stub 编译成自动跳转页，老链接仍可用。
+
 ## 本地预览
 
 ```bash
