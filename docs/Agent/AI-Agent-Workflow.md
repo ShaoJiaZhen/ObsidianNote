@@ -1,5 +1,6 @@
 ---
 title: AI Agent 工作流总览
+slug: ai-agent-workflow
 category: AI Agent / Claude Code
 tags:
   - AI编程

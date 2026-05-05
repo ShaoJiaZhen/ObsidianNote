@@ -1,5 +1,6 @@
 ---
 title: Matt Pocock Skills 项目实战使用指南
+slug: matt-pocock-skills
 category: AI Agent / Claude Code / Engineering Workflow
 tags:
   - AI编程

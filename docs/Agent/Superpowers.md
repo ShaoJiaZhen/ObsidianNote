@@ -1,5 +1,6 @@
 ---
 title: Superpowers 项目实战使用指南
+slug: superpowers
 category: AI Agent / Claude Code / Engineering Workflow
 tags:
   - AI编程

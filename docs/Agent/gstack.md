@@ -1,5 +1,6 @@
 ---
 title: gstack 项目实战使用指南
+slug: gstack
 category: AI Agent / Claude Code / Product Delivery
 tags:
   - AI编程
