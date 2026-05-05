@@ -20,20 +20,9 @@ theme:
   icon:
     logo: material/notebook-outline
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: white
       accent: light blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: light blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.tracking
@@ -43,6 +32,7 @@ theme:
     - content.code.copy
     - content.action.edit
     - content.action.view
+  # No light/dark toggle — light mode only.
 
 plugins:
   - search:
