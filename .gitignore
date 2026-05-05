@@ -1,0 +1,18 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# mkdocs-publisher cache
+.cache/
+
+# Claude Code per-developer settings (not shared)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
