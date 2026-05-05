@@ -1,0 +1,11 @@
+site_name: ShaoJiaZhen's Notes
+docs_dir: docs
+
+# v1 tracer bullet: only the homepage. Everything else added in later tasks.
+nav:
+  - Home: index.md
+
+# Exclude internal/build files from the built site (paths relative to docs_dir)
+exclude_docs: |
+  superpowers/
+  Obsidian Vault/.obsidian/
