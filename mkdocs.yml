@@ -1,5 +1,34 @@
 site_name: ShaoJiaZhen's Notes
+site_description: 个人知识笔记
+site_url: https://shaojiazhen.github.io/ObsidianNote/
+repo_url: https://github.com/ShaoJiaZhen/ObsidianNote
+repo_name: ShaoJiaZhen/ObsidianNote
+
 docs_dir: docs
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
 
 # v1 tracer bullet: only the homepage. Everything else added in later tasks.
 nav:
