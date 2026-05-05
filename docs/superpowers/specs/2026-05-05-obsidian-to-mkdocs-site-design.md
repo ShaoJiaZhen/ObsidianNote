@@ -41,7 +41,7 @@ https://shaojiazhen.github.io/ObsidianNote/
 | 发布过滤 | A 全部公开 / B opt-in / C opt-out / D 目录白名单 | **B opt-in (`publish: true`)** | 草稿不会被偷看；新笔记默认安全 |
 | Obsidian 语法处理 | A 插件 / B 自写预处理 / C 手工迁移 | **A `mkdocs-publisher` 插件** | 同时解决 opt-in + callouts + wikilinks + 嵌图，写作习惯不变 |
 | 仓库布局 | A 同 repo gh-pages / B 独立 repo + submodule / C 同 repo + 自定义域名 | **A** | 最少移动件，未来升级到 C 只是加 CNAME |
-| 主题 | Material for MkDocs | **Material** | 业界事实标准，CJK / 搜索 / 暗黑模式开箱即用 |
+| 主题 | Material / ReadTheDocs / mkdocs 默认 | **Material for MkDocs** | 业界事实标准，CJK / 搜索 / 暗黑模式开箱即用 |
 | docs_dir | `docs/` 子目录 / vault 根 | **vault 根** (`docs_dir: .`) | 不破坏 Obsidian 现有目录结构 |
 
 ## 4. 架构与数据流
@@ -240,7 +240,7 @@ publish: true          ← 新增
 
 ## 10. 首期上站候选 (4 篇)
 
-第一次部署后，手动给以下成熟笔记加 `publish: true`：
+作为 v1 实现的一部分（在第一次 push 之前），手动给以下成熟笔记加 `publish: true`：
 
 - `Agent/Superpowers.md`
 - `Agent/gstack.md`
@@ -248,6 +248,7 @@ publish: true          ← 新增
 - `Agent/AI-Agent-Workflow.md`
 
 > **不脚本批量加**：避免误发；作者一篇一篇过一遍内容确认可公开。
+> 加完之后第一次 push 就有 4 篇 + 首页共 5 个页面上站。
 
 ## 11. 站点首页 (`index.md`)
 
