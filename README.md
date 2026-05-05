@@ -56,4 +56,4 @@ requirements.txt         锁定 mkdocs / material / publisher 主版本
 
 ## License
 
-笔记内容版权所有。代码部分（mkdocs.yml、`_mkdocs_hooks.py`、workflow）你可以自由参考。
+[MIT](LICENSE) — 代码和笔记内容均可自由复制、修改、再分发，保留版权声明即可。
