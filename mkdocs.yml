@@ -30,6 +30,24 @@ theme:
     - search.highlight
     - content.code.copy
 
+plugins:
+  - search:
+      lang: [zh, en]
+  - pub-meta:
+      publish:
+        file_default: false       # opt-in: files default to NOT published
+        dir_default: true         # directories default to published (so dir contents inherit unless file overrides)
+        file_warn_on_missing: false
+  - pub-obsidian:
+      callouts:
+        enabled: true
+      links:
+        wikilinks_enabled: true
+      backlinks:
+        enabled: false
+      vega:
+        enabled: false
+
 markdown_extensions:
   - admonition
   - pymdownx.details
