@@ -10,6 +10,7 @@ tags:
   - AIAgent
 status: evergreen
 updated: 2026-05-04
+publish: true
 ---
 
 # Superpowers 项目实战使用指南

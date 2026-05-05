@@ -10,6 +10,7 @@ tags:
   - ProductWorkflow
 status: evergreen
 updated: 2026-05-04
+publish: true
 ---
 
 # gstack 项目实战使用指南

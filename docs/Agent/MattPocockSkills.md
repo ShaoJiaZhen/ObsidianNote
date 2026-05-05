@@ -12,6 +12,7 @@ tags:
   - AIAgent
 status: evergreen
 updated: 2026-05-05
+publish: true
 ---
 
 # Matt Pocock Skills 项目实战使用指南

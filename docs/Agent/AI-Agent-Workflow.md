@@ -9,6 +9,7 @@ tags:
   - Workflow
 status: evergreen
 updated: 2026-05-04
+publish: true
 ---
 
 # AI Agent 工作流总览

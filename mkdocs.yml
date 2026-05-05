@@ -6,6 +6,12 @@ repo_name: ShaoJiaZhen/ObsidianNote
 
 docs_dir: docs
 
+# Convert Obsidian-style intra-doc heading wikilinks like `[[#7.5 代码审查阶段]]`
+# into plain markdown anchor links before pub-obsidian sees them, so the
+# resolved anchor matches the default toc-generated heading id.
+hooks:
+  - _mkdocs_hooks.py
+
 theme:
   name: material
   language: zh
