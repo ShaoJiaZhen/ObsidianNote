@@ -16,6 +16,9 @@ hooks:
 theme:
   name: material
   language: zh
+  favicon: assets/images/favicon.svg
+  icon:
+    logo: material/notebook-outline
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
