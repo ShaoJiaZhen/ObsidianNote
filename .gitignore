@@ -13,6 +13,9 @@ venv/
 # Claude Code per-developer settings (not shared)
 .claude/settings.local.json
 
+# obsidian-git plugin runtime files
+**/obsidian_askpass.sh
+
 # OS
 .DS_Store
 Thumbs.db
