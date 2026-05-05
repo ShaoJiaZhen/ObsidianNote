@@ -42,6 +42,8 @@ theme:
 plugins:
   - search:
       lang: [zh, en]
+  - tags:
+      tags_file: tags.md
   - pub-meta:
       publish:
         file_default: false       # opt-in: files default to NOT published
@@ -73,9 +75,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# v1 tracer bullet: only the homepage. Everything else added in later tasks.
 nav:
   - Home: index.md
+  - 标签: tags.md
 
 # Exclude internal/build files from the built site (paths relative to docs_dir)
 exclude_docs: |
