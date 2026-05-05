@@ -77,4 +77,3 @@ nav:
 # Exclude internal/build files from the built site (paths relative to docs_dir)
 exclude_docs: |
   superpowers/
-  Obsidian Vault/.obsidian/
