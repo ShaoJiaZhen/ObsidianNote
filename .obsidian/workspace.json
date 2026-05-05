@@ -20,8 +20,121 @@
               "icon": "lucide-file",
               "title": "笔记名称"
             }
+          },
+          {
+            "id": "92907c014803e5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Obsidian常用语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian常用语法"
+            }
+          },
+          {
+            "id": "e210ecab7ecbef19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/商业模式画布整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "商业模式画布整理"
+            }
+          },
+          {
+            "id": "cda4c517a364d4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作记录/日报.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日报"
+            }
+          },
+          {
+            "id": "7c869c8ae6865c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/gstack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gstack"
+            }
+          },
+          {
+            "id": "3cd2aced8fa01947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/AutoCut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AutoCut"
+            }
+          },
+          {
+            "id": "2b6ec55f4d1a4e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/MattPocockSkills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MattPocockSkills"
+            }
+          },
+          {
+            "id": "c5ca0b57c02d2f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/Superpowers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superpowers"
+            }
+          },
+          {
+            "id": "e5231e230bc44bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/Superpowers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superpowers"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,13 +307,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ce2c8778930823b",
+  "active": "2b6ec55f4d1a4e75",
   "lastOpenFiles": [
-    "Obsidian Vault/记忆力模块.md",
-    "Obsidian Vault/能力分析.md",
+    "docs/superpowers/plans/2026-05-05-mkdocs-site.md.tmp.50684.1777949438177",
+    "docs/superpowers/plans/2026-05-05-mkdocs-site.md",
+    "docs/superpowers/plans",
+    "docs/superpowers/specs/2026-05-05-obsidian-to-mkdocs-site-design.md.tmp.50684.1777949004017",
+    "docs/superpowers/specs/2026-05-05-obsidian-to-mkdocs-site-design.md",
+    "docs/superpowers/specs/2026-05-05-obsidian-to-mkdocs-site-design.md.tmp.50684.1777948934801",
+    "docs/superpowers/specs",
+    "docs/superpowers",
+    "docs",
+    "Agent/gstack.md",
+    "Agent/MattPocockSkills.md",
+    "Github/audio-preview.md",
+    "Github/微信集成chatgpt.md",
+    "Obsidian Vault/商业模式画布整理.md",
+    "Github/Obsidian微信读书插件.md",
+    "Pasted image 20260504171326.png",
+    "Agent/AI-Agent-Workflow.md",
+    "Agent/Superpowers.md",
+    "Github/AutoCut.md",
+    "Pasted image 20260504170843.png",
+    "Github/Memphis.md",
+    "Pasted image 20260504170639.png",
+    "Pasted image 20260504170830.png",
+    "Github",
+    "软件开发/Python/DearPyGui.md",
+    "工作记录/日报.md",
+    "软件开发/Python",
+    "其他/商业模式画布整理.md",
+    "软件开发/游戏/游戏数据结构内容.md",
+    "软件开发/游戏",
+    "软件开发/后端",
+    "软件开发/游戏/体感小程序接口数据.md",
     "Obsidian Vault/游戏系统.md",
     "Obsidian Vault/五大认知维度.md",
     "Obsidian Vault/Obsidian常用语法.md",
-    "README.md"
+    "Obsidian Vault/笔记名称.md",
+    "Obsidian Vault/记忆力模块.md",
+    "软件开发/游戏/康复游戏.md",
+    "Obsidian Vault/能力分析.md",
+    "Obsidian Vault/8eac2c2ec2499ee656d7266643a8cea3.png",
+    "Obsidian Vault/143bfa23a0dd4c7abcb0ea6a15b30859.png",
+    "README.md",
+    "Obsidian Vault/b504141a17546cd78d00f981c2c470f7.png",
+    "Obsidian Vault/b95fc8bb75899072f6764784ffcad6b6.png"
   ]
 }
