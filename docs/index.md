@@ -1,9 +1,9 @@
 ---
-title: ShaoJiaZhen's Notes
+title: JZ Notes
 publish: true
 ---
 
-# ShaoJiaZhen's Notes
+# JZ Notes
 
 这里是我个人的工程与产品笔记。主要写给自己看，但放在公网上方便偶尔分享。
 

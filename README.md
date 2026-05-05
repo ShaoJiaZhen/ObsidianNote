@@ -1,4 +1,4 @@
-# ShaoJiaZhen's Notes
+# JZ Notes
 
 我个人的工程与产品笔记。Obsidian vault → MkDocs 站点。
 
