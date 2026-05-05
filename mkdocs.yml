@@ -3,6 +3,7 @@ site_description: 个人知识笔记
 site_url: https://shaojiazhen.github.io/ObsidianNote/
 repo_url: https://github.com/ShaoJiaZhen/ObsidianNote
 repo_name: ShaoJiaZhen/ObsidianNote
+edit_uri: edit/main/docs/
 
 docs_dir: docs
 
@@ -35,6 +36,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.action.edit
+    - content.action.view
 
 plugins:
   - search:
